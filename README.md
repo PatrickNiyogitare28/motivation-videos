@@ -2,7 +2,7 @@
 Scam attack that uses motivation videos to attract victims
 
 ## Getting started
-- Clone the [repository](https://github.com/PatrickNiyogitare28/motivation-videos-scam.git) 
+- Clone the [repository](https://github.com/PatrickNiyogitare28/motivation-videos.git) 
 - navigate to directory `motivation-videos-scam/videos`
 - run `movitivation-video-0.mp4` (no effects)
 - run `movitivation-video-1.desktop` (victim is hacked)
